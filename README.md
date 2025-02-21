@@ -3,15 +3,17 @@ Lifelong Learner, currently working as a web and app developer.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadlabib&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadlabib" />
 </p>
 
-### <summary><strong>Tools:</strong></summary>
+### <summary><strong>Tools:</strong>
+</summary>
 <p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Nano-blue?&logo=nano&logoColor=white" />
-    <img src="https://img.shields.io/badge/OS-Windows%2011-blue?&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/Code-Java-blue?&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/IDE-Android%20Studio-blue?&logo=androidstudio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Text%20Editor-VS%20Code-blue?&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Version%20Control-Git-blue?&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Framework-Laravel-blue?&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Language-PHP-blue?&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Language-JavaScript-blue?&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Language-Python-blue?&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/OS-Windows%2011-blue?&logo=windows&logoColor=white" />
 </p>
-
 ### <summary><strong>About Me:</strong></summary>
 - :keyboard: I’m currently learning Web Development, focusing on backend and UI/UX design.
 - :speech_balloon: Ask me anything about programming, web, or mobile apps!
